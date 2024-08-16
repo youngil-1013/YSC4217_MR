@@ -1,5 +1,6 @@
 (* term-project.v *)
 
+(* MR 2024 - YSC 2024-2025, Sem1 *)
 (* Continued from FPP 2023 - YSC 2023-2024, Sem1 *)
 (* Olivier Danvy <danvy@yale-nus.edu.sg> *)
 (* Version of 15 Aug 2024 *)
@@ -10,29 +11,19 @@
 
 (* ********** *)
 
+(* student name: Alan Matthew Anggara
+   e-mail address: alan.matthew@u.yale-nus.edu.sg
+   student ID number: A0207754B
+ *)
+
 (* student name: Kim Young Il
    e-mail address: youngil.kim@u.yale-nus.edu.sg
    student ID number: A0207809Y
  *)
 
-(* student name: Raihanah Nabilah Fatinah
-   e-mail address: raihanah@u.yale-nus.edu.sg
-   student ID number: A0207754B
- *)
-
-(* student name: Uladzimir Treihis
-   e-mail address: u.treihis@u.yale-nus.edu.sg
-   student ID number: A0223990B
- *)
-
 (* student name: Vibilan Jayanth
    e-mail address: vibilan@u.yale-nus.edu.sg
    student ID number: A0242417L
- *)
-
-(* student name: Wee Chin Wei, Bryan
-   e-mail address: bryan.wee@u.yale-nus.edu.sg
-   student ID number: A0242350U
  *)
 
 (* ********** *)
